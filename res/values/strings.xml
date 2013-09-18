@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Simple ToDo</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="enter_item_text">Enter new item.</string>
+    <string name="add_item_label">Add</string>
+
+</resources>
